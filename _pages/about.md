@@ -13,4 +13,4 @@ My PhD is part of the [FARSCOPE programme](http://farscope.bris.ac.uk/) at the [
 
 My current work focuses on replicating locomotion through shape change. I am looking at the *Euglena* family of microorganisms, understanding their unique manner of swimming and designing robots that mimic this behaviour.
 
-Check out some of my projects and feel free to contact me.
+Check out some of my projects and go through my publications for a sample of my research.
