@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/teaching-1
 venue: "University of the West of England, Engineering Design and Mathematics"
-date: 2016-2017
+date: 2017-31-12
 location: "Bristol, UK"
 ---
 
