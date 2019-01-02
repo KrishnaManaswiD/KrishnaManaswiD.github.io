@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
+* Master of Science in Robotcs, Systems and Control, ETH Zurich, 2014
+* Ph.D in Robotics and Autonomous Systems, 2019 (expected)
 
 Work experience
 ======
@@ -42,18 +42,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 49 different slack teams
