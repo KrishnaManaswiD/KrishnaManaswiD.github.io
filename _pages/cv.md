@@ -17,24 +17,35 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Research Associate in Soft Robotics
+  * Confidence in Concept project
+  * Studied anatomy of vocal folds. Designed a simulator and an implant to treat paralysis.
+  * Supervisor: Prof. Jonathan Rossiter and Dr. Andrew Conn
+  * Duration: Dec 2016 - May 2017 
 
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant
+  * Elizabeth Blackwell Institute, Bristol
+  * Worked on testing an ionic polymer metal composite device to separate particles.
+  * Supervisor: Dr. Andrew Conn
+  * Duration: Aug - Sep, 2016
+
+* Visiting Researcher
+  * Laboratory of Intelligent Systems, EPFL
+  * Worked on a simulator for soft cells. Looked at evolutionary algorithms to generate functional structures.
+  * Supervisor: Prof. Dario Floreano
+  * Duration: May - Dec, 2014
+
+* Intern
+  * Disney Research Zurich
+  * Worked on a quadruped capable of displaying personalities with the goal of creating a friendly robots for children.
+  * Supervisor: Prof. Stelian Coros
+  * Duration: Jun - Sep, 2013
+
+* Intern
+  * Electroincs and Radar Development Establishment (LRDE), DRDO Bengaluru
+  * Worked on a Kalman filter based tracker to be used on an airborne early warning system.
+  * Supervisor: Dr. Duvvuri Seshagiri
+  * Duration: May - Jul, 2011
 
 Publications
 ======
@@ -47,3 +58,29 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+
+
+
+Skills
+======
+* Programming: C/C++, Python, MATLAB
+* Workshop skills: casting, fitting, welding, carpentry, working the lathe, 3D printing, laser cutting
+* Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Adobe Illustrator and Photoshop, Blender
+* Languages:
+  * English (fluent)
+  * Telugu (native)
+  * Hindi (fluent)
+  * German (A1)
+  * French (beginner)
+  * Sanskrit (pravesa)
+
+Hobbies
+======
+* Drawing
+* Sculpting
+* 3D modelling
+* Video games
+* Table tennis
