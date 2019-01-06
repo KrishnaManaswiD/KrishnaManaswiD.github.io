@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download a pdf version here.
+
 Education
 ======
 * Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
@@ -18,14 +20,14 @@ Education
 Work experience
 ======
 * Research Associate in Soft Robotics
-  * Confidence in Concept project
+  * Implantable soft robotic devices to treat vocal fold paralysis
   * Studied anatomy of vocal folds. Designed a simulator and an implant to treat paralysis.
-  * Supervisor: Prof. Jonathan Rossiter and Dr. Andrew Conn
-  * Duration: Dec 2016 - May 2017 
+  * Supervisors: Prof. Jonathan Rossiter and Dr. Andrew Conn
+  * Duration: Nov 2016 - May 2017 
 
-* Research Assistant
-  * Elizabeth Blackwell Institute, Bristol
-  * Worked on testing an ionic polymer metal composite device to separate particles.
+* Research Assistant - Elizabeth Blackwell Institute
+  * Cilia-Inspired microfluidic manipulators for lab-on-a-chip diagnostic devices
+  * Worked on testing an ionic polymer metal composite device.
   * Supervisor: Dr. Andrew Conn
   * Duration: Aug - Sep, 2016
 
@@ -35,11 +37,16 @@ Work experience
   * Supervisor: Prof. Dario Floreano
   * Duration: May - Dec, 2014
 
-* Intern
-  * Disney Research Zurich
-  * Worked on a quadruped capable of displaying personalities with the goal of creating a friendly robots for children.
+* Intern - Disney Research Zurich
+  * Design and control of friendly robots with personality
+  * Worked on a quadruped capable of displaying personalities with the goal of creating friendly robots for children.
   * Supervisor: Prof. Stelian Coros
   * Duration: Jun - Sep, 2013
+
+* Semester Project
+  * Ajile and Dexterous Robotics Lab, ETH Zurich
+  * Mechanical Design of a Robot gripper with Soft Skin for Control Tasks
+  * Supervisor: Dr. Jonas Buchli
 
 * Intern
   * Electroincs and Radar Development Establishment (LRDE), DRDO Bengaluru
@@ -53,22 +60,36 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards and Achievements
+======
+* Recipient of the ETH Scholarship for Master’s students, 2013
+* Recipient of the University of Tokyo IIT Undergraduate Student Scholarship Program (TODAI – Mori Seiki Scholarship) twice (2010, 2011)
+* Participated in the Japan-East Asia Network of Exchange for Students and Youths Programme June 9th – 18th, 2010
+* Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
+* Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards
+Outreach and Voluntary Work
 ======
-
-
+* STEM ambassador UK. Regularly participate in outreach activities of the Bristol Robotics Lab, interacting with children, teaching programming, talking science and demonstrating robots.
+* Participated in the Science in Schools outreach program organized by the British Council in France, November 2017. Part of a three-member team visiting schools in Nancy-Metz.
+* Research featured in episode, 50 Shapes of Goo, of BBC Click with a worldwide audience of 380 million households, 10th June 2017. Cover photo shows off one of my robots.
+* Member of the Bristol Robotics Lab delegation at the Robotics Conference, Science Museum, London, 4th July 2016. Demonstrated soft robots to officials of the government and journalists.
+* Presented my research from the Soft Robotics Lab to the EPSRC Council on their visit to the University of Bristol, July 2016.
+* Demonstrator for ROBOSOFT at the Gadget Show 2016, Birmingham. Engaged with members of the public on recent advancements in soft robotics. More than 6000 people visited our stand.
+* Spearheaded a fundraiser to provide infrastructure to a school as part of an initiative by the alumni of IITH. Provided drinking water, built a library, set up labs and started computer training.
 
 Skills
 ======
 * Programming: C/C++, Python, MATLAB
 * Workshop skills: casting, fitting, welding, carpentry, working the lathe, 3D printing, laser cutting
 * Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Adobe Illustrator and Photoshop, Blender
+* Tools and technologies: Microcontroller programming, image processing, computer-based simulation, modelling, animation, web design, HPC (beginner)
 * Languages:
   * English (fluent)
   * Telugu (native)
@@ -79,8 +100,7 @@ Skills
 
 Hobbies
 ======
-* Drawing
-* Sculpting
-* 3D modelling
-* Video games
-* Table tennis
+* Hold a brown belt in Shotokan karate, won gold at the national level
+* Enjoy drawing and sculpting
+* Adept at table tennis. Played for the department's team
+* Avid video games
