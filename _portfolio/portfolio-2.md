@@ -1,6 +1,6 @@
 ---
 title: "Design and Control of Friendly Robots with Personality"
-excerpt: "A legged robot capable of displaying personality through its movement <br/><img src='/images/projectImages/Roger_500x300.png'> Sketch by Maurizio Nitti and Alessia Marra"
+excerpt: "A legged robot capable of displaying personality through its movement <br/><img src='/images/projectImages/Roger_500x300.png'> <br/>Sketch by Maurizio Nitti and Alessia Marra"
 collection: portfolio
 ---
 
