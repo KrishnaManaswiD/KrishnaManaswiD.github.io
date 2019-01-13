@@ -1,6 +1,6 @@
 ---
 title: "Implantable soft robotic devices to treat vocal fold paralysis"
-excerpt: "An proof of concept design of an implantable device <br/><img src='/images/projectImages/CiC_500x300.png'>"
+excerpt: "A proof of concept design of an implantable device <br/><img src='/images/projectImages/CiC_500x300.png'>"
 collection: portfolio
 ---
 
@@ -13,4 +13,4 @@ We designed and fabricated several designs using bio-compatible materials to be 
 <br/><img src='/images/projectImages/CiC_500x300.png'>
 <br/><img src='/images/projectImages/CiC2_500x300.png'>
 
-Unfortunately, I cannot share pictures more from the work due to medical, legal and ethical issues.
+Unfortunately, I cannot share more pictures from the work due to medical, legal and ethical issues.
