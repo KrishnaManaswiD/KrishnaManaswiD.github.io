@@ -4,4 +4,4 @@ excerpt: "A cable driven manipulator with multiple degrees of freedom <br/><img 
 collection: portfolio
 ---
 
-From my bachelor's thesis at IIT Hyderabad, I worked on the design of a hyper-redundant manipulator. It was constructed out of 3D printed parts and was driven using cables connected to servo motors. 
+For my bachelor's thesis at IIT Hyderabad, I worked on the design of a hyper-redundant manipulator. It was constructed out of 3D printed parts and was driven using cables connected to servo motors. 
