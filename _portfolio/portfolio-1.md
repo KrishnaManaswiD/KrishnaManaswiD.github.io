@@ -1,5 +1,5 @@
 ---
-title: "Comcurrent optimization of Mechanical Design and Locomotion Control"
+title: "Concurrent optimization of Mechanical Design and Locomotion Control"
 excerpt: "A method to simultaneously optimize design and control parameters for legged robots<br/><img src='/images/projectImages/StarlETH_500x300.png'>"
 collection: portfolio
 ---
