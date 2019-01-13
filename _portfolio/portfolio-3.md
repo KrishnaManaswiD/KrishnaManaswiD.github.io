@@ -1,9 +1,10 @@
 ---
-title: "Mechanical Design of a Gripper with Soft Skin"
-excerpt: "For automated testing of soft skins in control tasks<br/><img src='/images/projectImages/Gripper_500x300.png'>"
+title: "Experiments with the Soft Cell Simulator"
+excerpt: "Investigated the design of mechanical structures using soft materials <br/><img src='/images/projectImages/SCS2.png'>"
 collection: portfolio
 ---
 
-In this project with the Dr. Jonas Buchli from the Ajile and Dexterous Robotics Lab, ETH and Prof. Stelian Coros, I designed a gripper to be used in the sutomated testing of soft skins. The idea was to drop a ball from a known height and let the gripper grasp it as it falls. The arms of the gripper were manufactured from soft material and the goal was to test how different materials performed.
+During my work at the Laboratory of Intelligent Systems, EPFL with Prof. Dario Floreano and Dr. Joshua Auerbach, I looked at the design of mechanical structures constructed out of soft materials. I performed simulations using the soft-cell simulator developed in the lab to study if softness gives a mechanical advantage in the design of engineering structures. I looked at two problems - a soft support structure (top image) and the locomotion of a soft body through a constriction (bottom image).
 
-<br/><img src='/images/projectImages/Gripper_500x300.png'>"
+<br/><img src='/images/projectImages/SCS1.png'>
+<br/><img src='/images/projectImages/SCS2.png'>
