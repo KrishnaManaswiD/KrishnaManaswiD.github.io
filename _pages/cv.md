@@ -65,6 +65,7 @@ Awards and Achievements
 * Recipient of the ETH Scholarship for Master’s students, 2013
 * Recipient of the University of Tokyo IIT Undergraduate Student Scholarship Program (TODAI – Mori Seiki Scholarship) twice (2010, 2011)
 * Participated in the Japan-East Asia Network of Exchange for Students and Youths Programme June 9th – 18th, 2010
+* Cleared the 'Ideas' round of the University of Bristol's Basecamp New Enterprise Competition 2018-19
 * Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
 * Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
 
