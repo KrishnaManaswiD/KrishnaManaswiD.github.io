@@ -2,10 +2,11 @@
 title: "EuMoBot: replicating euglenoid movement in a soft robot"
 collection: publications
 permalink: /publications/digumarti2018eumobot
-venue: "Journal of the Royal Society Interface"
+excerpt: ''
+venue: ' Journal of the Royal Society Interface'
+paperurl: 'https://doi.org/10.1098/rsif.2018.0301'
 date: 2018-11-21
 citation: 'Digumarti KM, Conn AT, Rossiter J. EuMoBot: replicating euglenoid movement in a soft robot. Journal of the Royal Society Interface. 2018 Nov 21;15(148):20180301.'
-teaser:
 ---
 
 ## Abstract

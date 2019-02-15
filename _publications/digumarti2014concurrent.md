@@ -2,7 +2,9 @@
 title: "Concurrent optimization of mechanical design and locomotion control of a legged robot"
 collection: publications
 permalink: /publications/digumarti2014concurrent
+excerpt: ''
 venue: "Mobile Service Robotics, CLAWAR"
+paperurl: 'https://doi.org/10.1142/9789814623353_0037'
 date: 2014-06-22
 citation: 'Digumarti KM, Gehring C, Coros S, Hwangbo J, Siegwart R. Concurrent optimization of mechanical design and locomotion control of a legged robot. In Mobile Service Robotics 2014 (pp. 315-323).'
 ---
