@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version here.
+Download a pdf version here (not yet available).
 
 Education
 ======
@@ -65,6 +65,7 @@ Awards and Achievements
 * Recipient of the ETH Scholarship for Master’s students, 2013
 * Recipient of the University of Tokyo IIT Undergraduate Student Scholarship Program (TODAI – Mori Seiki Scholarship) twice (2010, 2011)
 * Participated in the Japan-East Asia Network of Exchange for Students and Youths Programme June 9th – 18th, 2010
+* Awareded the University of Bristol Alumni Foundation Travel Grant, 2019
 * Cleared the 'Ideas' round of the University of Bristol's Basecamp New Enterprise Competition 2018-19
 * Won the second prize for presenting a Numerical Analysis of Heat Transfer in the Foot During the Act of Firewalking at Techkriti 2011 in IIT Kanpur
 * Won the second prize in a circuit design challenge at IIT Madras, 2009 for demonstrating a low-cost energy saving home automation circuit
@@ -92,16 +93,13 @@ Skills
 * Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Adobe Illustrator and Photoshop, Blender
 * Tools and technologies: Microcontroller programming, image processing, computer-based simulation, modelling, animation, web design, HPC (beginner)
 * Languages:
-  * English (fluent)
-  * Telugu (native)
-  * Hindi (fluent)
+  * English, Teluge, Hindi (fluent)
   * German (A1)
-  * French (beginner)
-  * Sanskrit (pravesa)
+  * French, Sanskrit (beginner)
 
 Hobbies
 ======
 * Hold a brown belt in Shotokan karate, won gold at the national level
 * Enjoy drawing and sculpting
 * Adept at table tennis. Played for the department's team
-* Avid video games
+* Avid video gamer
