@@ -14,7 +14,7 @@ Download a pdf version here (not yet available).
 Education
 ======
 * Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
-* Master of Science in Robotcs, Systems and Control, ETH Zurich, 2014
+* Master of Science in Robotcs, Systems and Control, ETH Zürich (jointly with Disney Research Zürich), 2014
 * Ph.D in Robotics and Autonomous Systems, 2019 (expected)
 
 Work experience
@@ -37,7 +37,7 @@ Work experience
   * Supervisor: Prof. Dario Floreano
   * Duration: May - Dec, 2014
 
-* Intern - Disney Research Zurich
+* Intern - Disney Research Zürich
   * Design and control of friendly robots with personality
   * Worked on a quadruped capable of displaying personalities with the goal of creating friendly robots for children.
   * Supervisor: Prof. Stelian Coros
