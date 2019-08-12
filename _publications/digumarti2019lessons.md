@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/digumarti2019lessons
 excerpt: ''
 venue: "10th International Conference on Robotics in Education"
-paperurl: ''
+paperurl: 'none'
 date: 2018-03-06
 citation: 'Zapata DC, Lee C, Digumarti KM, Hauert S, Boushel C. Lessons from delivering a STEM workshop using educational robots given language limitations. 10th International Conference on Robotics in Education. 2019.'
 ---
