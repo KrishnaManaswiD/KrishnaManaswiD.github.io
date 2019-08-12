@@ -3,7 +3,7 @@ title: "Multi-directional crawling robot with soft actuators and electroadhesive
 collection: publications
 permalink: /publications/digumarti2018multi
 excerpt: ''
-venue: "IEEE International Conference on Soft Robotics (RoboSoft) 2018"
+venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
 paperurl: 'https://doi.org/10.1109/ROBOSOFT.2018.8404936'
 date: 2018-04-26
 citation: 'Digumarti KM, Cao C, Guo J, Conn AT, Rossiter J. Multi-directional crawling robot with soft actuators and electroadhesive grippers. In 2018 IEEE International Conference on Soft Robotics (RoboSoft) 2018 Apr 24 (pp. 303-308). IEEE.'
