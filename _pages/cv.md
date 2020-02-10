@@ -20,7 +20,8 @@ Education
 Work experience
 ======
 * Research Associate
-  * 
+  * Fabrication of gel based robots
+  * Duration: April 2019 - Mar 2020
 
 * Research Associate in Soft Robotics
   * Implantable soft robotic devices to treat vocal fold paralysis
