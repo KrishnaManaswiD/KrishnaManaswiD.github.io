@@ -1,7 +1,7 @@
 ---
 title: "Tiled Auxetic Cylinders for Soft Robots"
 collection: publications
-permalink: /publications/digumarti2019tacs
+permalink: /publications/simons2019tacs
 excerpt: ''
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
 paperurl: '10.1109/ROBOSOFT.2019.8722742'
