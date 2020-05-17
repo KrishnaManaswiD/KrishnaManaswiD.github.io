@@ -94,10 +94,10 @@ Skills
 ======
 * Programming: C/C++, Python, MATLAB
 * Workshop skills: casting, fitting, welding, carpentry, working the lathe, 3D printing, laser cutting
-* Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Adobe Illustrator and Photoshop, Blender
+* Modelling and simulation: Siemens NX, SolidWorks, Autodesk Fusion (including scripting), ANSYS, Inkscape, Adobe Illustrator and Photoshop, Blender
 * Tools and technologies: Microcontroller programming, image processing, computer-based simulation, modelling, animation, web design, HPC (beginner)
 * Languages:
-  * English, Teluge, Hindi (fluent)
+  * English, Telugu, Hindi (fluent)
   * German (A1)
   * French, Sanskrit (beginner)
 
