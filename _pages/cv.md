@@ -19,6 +19,11 @@ Education
 
 Work experience
 ======
+* Scientist
+  * Electrostatic Adhesion for Robot Grippers
+  * Soft Transducers Lab (LMTS) and Laboratory of Intelligent Systems (LIS), EPFL
+  * Duration: Oct 2020 - Present
+
 * Research Associate
   * Fabrication of gel based robots
   * Duration: April 2019 - Mar 2020
