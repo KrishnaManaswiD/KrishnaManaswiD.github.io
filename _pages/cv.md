@@ -13,7 +13,7 @@ Download a pdf version here (not yet available).
 
 Education
 ======
-* Ph.D in Robotics and Autonomous Systems, Bristol Robotics Laboratory, 2019
+* Ph.D in Robotics and Autonomous Systems, University of Bristol and University of the West of England, 2019
 * Master of Science in Robotcs, Systems and Control, ETH Zürich (jointly with Disney Research Zürich), 2014
 * Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
 
@@ -26,7 +26,7 @@ Work experience
 
 * Research Associate
   * Fabrication of gel based robots
-  * Duration: April 2019 - Mar 2020
+  * Duration: April 2019 - Sep 2020
 
 * Research Associate in Soft Robotics
   * Implantable soft robotic devices to treat vocal fold paralysis
