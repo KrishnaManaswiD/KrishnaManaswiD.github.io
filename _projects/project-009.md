@@ -1,7 +1,7 @@
 ---
 title: "Implantable soft robotic devices to treat vocal fold paralysis"
 excerpt: "A proof of concept design of an implantable device <br/><img src='/images/projectImages/CiC_500x300.png'>"
-collection: portfolio
+collection: projects
 ---
 
 In this project with Keren Yue, Alice Haynes, Dr. Hemma Philamore, Dr. Elena Giannaccini, Dr. Andrew T. Conn and Prof. Jonathan Rossiter we investigated the potential for an implantable soft robotic device to treat vocal fold paralysis. We first studied the anatomy of the larynx to understand the muscles, cartilages (shown below), nerves and other tissues involved in the gerneration of voice. In addition to looking at the geometry of components, we were also interested in the movement of the various parts and how that might be affected in the case of both unilateral and bilateral paralysis. Throats of healthy participants were iamged using MRI to help us in this regard. We also dissected porcine cadavers to get a feel for the dimensions involved and the forces required to mvoe the main cartilages. 

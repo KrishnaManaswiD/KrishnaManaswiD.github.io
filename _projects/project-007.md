@@ -1,7 +1,7 @@
 ---
 title: "Multi-directional Crawling Robot"
 excerpt: "A crawling robot made of soft materials <br/><img src='/images/projectImages/Crawler1.png'>"
-collection: portfolio
+collection: projects
 ---
 
 With Chongjing Cao and Jianglong Guo, I worked on a planar, low profile, multi-directional crawling robot. It uses electroactive polymer actuators and electroadhesive feet to move on multiple surfaces. We characterised actuatos in terms of the force that it could generate. We also tested the adhesion of the foot to surfaces of various materials. We demonstrated a 2D planar gait with speeds up to 12mm/s. 

@@ -1,7 +1,7 @@
 ---
 title: "Giant Shape change for highly deformable soft robots"
 excerpt: "Hyperelastic bellows inspired by euglenoids <br/><img src='/images/projectImages/iros2017_1.png'>"
-collection: portfolio
+collection: projects
 ---
 
 I looked at the design of a bioinspired actuator capable of achieving a large volumetric change, inspired by the changes in body shape seen in the euglena Eutreptiella spirogyra during its characteristic locomotion. I designed a novel soft pneumatic actuator exploits the hyperelastic properties of elastomers. We call this the hyperelastic bellows (HEB) actuator (top image). 

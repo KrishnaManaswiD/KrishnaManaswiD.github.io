@@ -1,7 +1,7 @@
 ---
 title: "Bio-inspired Artificial Pellicle"
 excerpt: "Pellicle like surface for soft robots <br/><img src='/images/projectImages/pellicles_500x300.png'>"
-collection: portfolio
+collection: projects
 ---
 
 Inspired by the proteinaceous strips in the pellicle of cells from the *Euglena* family, we fabricated artificial polymer strips. The cross section closely resembles that found in the organisms. (See picture below). Flexible sheets can be constructed by interlocking several of these strips. A change in the the shape of the structure results from the sliding of these strips against each other. Soft robots constructed in this manner can exhibit giant changes in shape. 
