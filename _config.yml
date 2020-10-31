@@ -182,7 +182,7 @@ collections:
     permalink: /:collection/:path/
   fun:
     output: true
-    permalink: /:collection/:path:
+    permalink: /:collection/:path/
 
 
 # Defaults
