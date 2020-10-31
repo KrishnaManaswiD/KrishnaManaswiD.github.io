@@ -1,13 +1,13 @@
 ---
-title: "Giant Shape change for highly deformable soft robots"
-excerpt: "Hyperelastic bellows inspired by euglenoids <br/><img src='/images/projectImages/iros2017_1.png'>"
+title: "EuMoBot"
+excerpt: "Replicating euglenoid movement in a soft robot <br/><img src='/images/projectImages/eumobot1.png'>"
 collection: projects
 ---
 
-I looked at the design of a bioinspired actuator capable of achieving a large volumetric change, inspired by the changes in body shape seen in the euglena Eutreptiella spirogyra during its characteristic locomotion. I designed a novel soft pneumatic actuator exploits the hyperelastic properties of elastomers. We call this the hyperelastic bellows (HEB) actuator (top image). 
+EuMoBot, is a multi-segment soft robot inspired by the *Euglena* family of micro-organisms, that replicates large body deformations to achieve locomotion. Two robots were fabricated at different sizes operating with a constant internal volume, which exploit hyperelasticity of fluid-filled elastomeric chambers to replicate the motion of euglenoids. I showed that the movemet of the robots is hydrodynamically similar to that of the organism. This bio-mimetic robot can therefore both replicate biological motion and act as a tool for studying it.
 
-I also fabricated a segmented robot with multiple chambers is presented, which demonstrates several of the characteristic shapes adopted by the euglenoid in its locomotion cycle (bottom image).
+This work is now published in the Royal Society's Journal, *Interface*. Access the paper at [the publisher's page](https://doi.org/10.1098/rsif.2018.0301)
 
-I presented this work at IROS 2017. Access the paper at [IEEE Xplore](https://doi.org/10.1109/LRA.2017.2726113) or [UoB PURE](https://research-information.bristol.ac.uk/files/120116110/Full_text_PDF_final_published_version_.pdf) 
+<br/><img src='/images/projectImages/eumobot1.png'>
 
-<br/><img src='/images/projectImages/iros2017_1.png'>
+<br/><img src='/images/projectImages/eumobot2.png'>

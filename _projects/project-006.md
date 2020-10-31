@@ -1,21 +1,13 @@
 ---
-title: "FARSCOPE Tortoises"
-excerpt: "Robots for outreach <br/><img src='/images/projectImages/Tortoise1_500x300.png'>"
+title: "Multi-directional Crawling Robot"
+excerpt: "A crawling robot made of soft materials <br/><img src='/images/projectImages/Crawler1.png'>"
 collection: projects
 ---
 
-The 2015 cohort of FARSCOPE CDT designed and built robots for outreach use. We worked together with teachers at the Abbeywood community school to design Raspberry Pi based robots to be used in introductory courses on programming and robotics. The inspiration for the robots comes from Grey Walter's tortoises that are one of the first robots to display intelligent behaviours. The robots we designed are programmed in python. We developed a set of commands to interact with the motors, LEDs, switches and sensors. The sensors can be moved around on the body of the robot to achieve different behaviours using the same piece of code.
+With Chongjing Cao and Jianglong Guo, I worked on a planar, low profile, multi-directional crawling robot. It uses electroactive polymer actuators and electroadhesive feet to move on multiple surfaces. We characterised actuatos in terms of the force that it could generate. We also tested the adhesion of the foot to surfaces of various materials. We demonstrated a 2D planar gait with speeds up to 12mm/s. 
 
-These robots have been used in various outreach activities of the Bristol Robotics Lab including at the *We the Curious* science museum  for the UK Robotics Week 2016.
+This work has been publised in the IEEE International Conference on Soft Robotics (Robosoft 2018). The paper can be accessed at [IEEE Xplore](https://doi.org/10.1109/ROBOSOFT.2018.8404936) or [UoB PURE](https://research-information.bristol.ac.uk/files/160638463/Multi_directional_crawling_robot_with_soft_actuators_and_electroadhesive_grippers.pdf)
 
-You can build and program one of your own robots. Get the material here.
+<br/><img src='/images/projectImages/Crawler1.png'>
 
-<br/><img src='/images/projectImages/Tortoise1_500x300.png'>
-
-<br/><img src='/images/projectImages/Tortoise2_500x300.png'>
-
-<br/><img src='/images/projectImages/Tortoise3_500x300.png'>
-
-<br/><img src='/images/projectImages/Tortoise4_500x300.png'>
-
-<br/><img src='/images/projectImages/Tortoise5_500x300.png'>
+<br/><img src='/images/projectImages/Crawler2.png'>

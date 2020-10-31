@@ -1,13 +1,9 @@
 ---
-title: "EuMoBot"
-excerpt: "Replicating euglenoid movement in a soft robot <br/><img src='/images/projectImages/eumobot1.png'>"
+title: "Tiled Auxetic Cylinders"
+excerpt: "Auxetics made with patterns <br/><img src='/images/projectImages/AuxeticDesigns_500x300.png'>"
 collection: projects
 ---
 
-EuMoBot, is a multi-segment soft robot inspired by the *Euglena* family of micro-organisms, that replicates large body deformations to achieve locomotion. Two robots were fabricated at different sizes operating with a constant internal volume, which exploit hyperelasticity of fluid-filled elastomeric chambers to replicate the motion of euglenoids. I showed that the movemet of the robots is hydrodynamically similar to that of the organism. This bio-mimetic robot can therefore both replicate biological motion and act as a tool for studying it.
+In this work with Melanie Simons, we explored auxetic properties of cylindrical structures. By changing the tiling on the surface, its geometry and orientation, variation in property was observed. This apporach is amenable to parameterisaiton and it is therefore easy to explore the design space. Such structures can generate giant and controllable deformations without relying on large strains. They may be used in the construction of soft robots, smart structures for medical interventions and wearable devices.
 
-This work is now published in the Royal Society's Journal, *Interface*. Access the paper at [the publisher's page](https://doi.org/10.1098/rsif.2018.0301)
-
-<br/><img src='/images/projectImages/eumobot1.png'>
-
-<br/><img src='/images/projectImages/eumobot2.png'>
+We presented this work at the IEEE International Conference on Soft Robotics 2019. Access the manuscript at [UoB's PURE](https://research-information.bris.ac.uk/files/185062368/Tiled_Auxetic_Cylinders_For_Soft_Robots_Accepted_Preprint.pdf).

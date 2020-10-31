@@ -1,9 +1,11 @@
 ---
-title: "Tiled Auxetic Cylinders"
-excerpt: "Auxetics made with patterns <br/><img src='/images/projectImages/AuxeticDesigns_500x300.png'>"
+title: "Bio-inspired Artificial Pellicle"
+excerpt: "Pellicle like surface for soft robots <br/><img src='/images/projectImages/pellicles_500x300.png'>"
 collection: projects
 ---
 
-In this work with Melanie Simons, we explored auxetic properties of cylindrical structures. By changing the tiling on the surface, its geometry and orientation, variation in property was observed. This apporach is amenable to parameterisaiton and it is therefore easy to explore the design space. Such structures can generate giant and controllable deformations without relying on large strains. They may be used in the construction of soft robots, smart structures for medical interventions and wearable devices.
+Inspired by the proteinaceous strips in the pellicle of cells from the *Euglena* family, we fabricated artificial polymer strips. The cross section closely resembles that found in the organisms. (See picture below). Flexible sheets can be constructed by interlocking several of these strips. A change in the the shape of the structure results from the sliding of these strips against each other. Soft robots constructed in this manner can exhibit giant changes in shape. 
 
-We presented this work at the IEEE International Conference on Soft Robotics 2019. Access the manuscript at [UoB's PURE](https://research-information.bris.ac.uk/files/185062368/Tiled_Auxetic_Cylinders_For_Soft_Robots_Accepted_Preprint.pdf).
+This work is now published in Robotics and Automation Letters. I will be presenting this work at the ICRA 2019. Access the paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/8653848).
+
+<br/><img src='/images/projectImages/pelliclesCrossSection_500x300.png'>

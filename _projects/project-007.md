@@ -1,13 +1,9 @@
 ---
-title: "Multi-directional Crawling Robot"
-excerpt: "A crawling robot made of soft materials <br/><img src='/images/projectImages/Crawler1.png'>"
+title: "Cilia-Inspired microfluidic manipulators for lab-on-a-chip diagnostic devices"
+excerpt: "A microscopic IPMC manipulator<br/><img src='/images/projectImages/IPMC_500x300.png'>"
 collection: projects
 ---
 
-With Chongjing Cao and Jianglong Guo, I worked on a planar, low profile, multi-directional crawling robot. It uses electroactive polymer actuators and electroadhesive feet to move on multiple surfaces. We characterised actuatos in terms of the force that it could generate. We also tested the adhesion of the foot to surfaces of various materials. We demonstrated a 2D planar gait with speeds up to 12mm/s. 
+In this project with Dr. Andrew Conn funded by the ELizabeth Balckwell Institute, Bristol, we looked at designing a microfluidic manipulator. The aim was to use it in a diagnostic device to direct microscopic particles in the medium. We fabricated and tested a device using an ionic polymer-metal composite (IPMC) shown in the image below.
 
-This work has been publised in the IEEE International Conference on Soft Robotics (Robosoft 2018). The paper can be accessed at [IEEE Xplore](https://doi.org/10.1109/ROBOSOFT.2018.8404936) or [UoB PURE](https://research-information.bristol.ac.uk/files/160638463/Multi_directional_crawling_robot_with_soft_actuators_and_electroadhesive_grippers.pdf)
-
-<br/><img src='/images/projectImages/Crawler1.png'>
-
-<br/><img src='/images/projectImages/Crawler2.png'>
+<br/><img src='/images/projectImages/IPMC_500x300.png'>
