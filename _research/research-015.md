@@ -1,6 +1,6 @@
 ---
 title: "B:Ionic glove"
-excerpt: "A Soft Smart Wearable Sensory Feedback Device for Upper Limb Robotic Prostheses <br/><img src='/images/projectImages/bionicGlove.png'>"
+excerpt: "A wearable sensory feedback device for upper limb robotic prostheses <br/><img src='/images/projectImages/bionicGlove.png'>"
 collection: research
 ---
 
