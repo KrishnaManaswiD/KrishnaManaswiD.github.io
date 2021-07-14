@@ -8,4 +8,5 @@ Upper limb robotic prosthetic devices currently lack adequate sensory feedback, 
 
 This work is now published in the IEEE Robotics and Automation Letters and will be presented at the IEEE International Conference on Robotics and Automation 2021 in Xi'an. Access the paper at [IEEE Xplore](https://ieeexplore.ieee.org/document/9372790) or [UoB's Pure](https://research-information.bris.ac.uk/en/publications/bionic-glove-a-soft-smart-wearable-sensory-feedback-device-for-up).
 
-A video on the work is on IEEE Xplore. [link](https://ieeexplore.ieee.org/document/9372790/media#media)
+A video on the work is on IEEE Xplore. [link](https://ieeexplore.ieee.org/document/9372790/media#media)  
+Melanie Simons explains the work in more detail here. [youtube link](https://www.youtube.com/watch?v=w_m2XEiz8Kg)
