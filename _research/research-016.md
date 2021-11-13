@@ -1,6 +1,6 @@
 ---
 title: "3D printing with konjac glucomannan gels"
-excerpt: "A recipe for stimuli-responsive, self-healing soft robots"
+excerpt: "A recipe for stimuli-responsive, self-healing soft robots made with gels <br/><img src='/images/projectImages/kgm.png'"
 collection: research
 ---
 
