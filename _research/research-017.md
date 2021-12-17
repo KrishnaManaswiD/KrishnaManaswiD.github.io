@@ -1,6 +1,6 @@
 ---
 title: "Picking textiles up using electroadhesion"
-excerpt: "A new way to handle fragile materials"
+excerpt: "A new way to handle fragile materials <br/><img src='/images/projectImages/EAPaper_500x328.png'>"
 collection: research
 ---
 
