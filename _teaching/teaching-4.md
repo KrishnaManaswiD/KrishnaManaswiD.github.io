@@ -1,12 +1,12 @@
 ---
-title: "Soft Robotics Practicals"
+title: "Robotics Practicals - Artificial Muscles"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/teaching-3
+permalink: /teaching/teaching-4
 venue: "EPFL"
 date: 2021-03-01
 ---
 
-I will be teaching the soft robotics practicals course at EPFL with my colleagues Yegor Piskarev and Vivek Ramachandran.
-Students will be trained on manufacturing artificial muscles based on dielectric elastomer actuators. They will get a chance to both fabricate and characterise these actuators.
-We will also teach them about electrostatic adhesion. At the end of the course, the students will be able to design, test and analyse their very own soft robot.
+I was one an instructor on the robotics practicals course at EPFL with my colleague Yegor Piskarev.
+Students were trained on manufacturing artificial muscles based on dielectric elastomer actuators. They got a chance to both fabricate and characterise these actuators.
+We also taught them about electrostatic adhesion. At the end of the course, the students designed, tested and analysed their very own soft robot.
