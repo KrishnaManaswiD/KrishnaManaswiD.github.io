@@ -103,8 +103,9 @@ Skills
 * Tools and technologies: Microcontroller programming, image processing, computer-based simulation, modelling, animation, web design, HPC (beginner)
 * Languages:
   * English, Telugu, Hindi (fluent)
+  * French (A2)
   * German (A1)
-  * French, Sanskrit (beginner)
+  * Sanskrit (beginner, pravesa)
 
 Hobbies
 ======
