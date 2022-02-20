@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/digumarti2019pellicular
 excerpt: ''
 venue: "IEEE Robotics and Automation Letters. Presented at ICRA"
-paperurl: '10.1109/LRA.2019.2901981'
+paperurl: 'https://doi.org/10.1109/LRA.2019.2901981'
 date: 2019-02-27
 citation: 'Digumarti KM, Conn AT, Rossiter J. Pellicular Morphing Surfaces for Soft Robots. In 2018 IEEE Robotics and Automation letters 2019 Volume 4 Issue 3 July 2019 (pp. 2304-2309). IEEE.'
 ---

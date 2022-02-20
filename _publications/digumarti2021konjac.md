@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/digumarti2021konjac
 excerpt: ''
 venue: "3D Printing and Additive Manufacturing"
-paperurl: '10.1089/3dp.2020.0289'
+paperurl: 'https://doi.org/10.1089/3dp.2020.0289'
 date: 2021-07-12
 citation: 'K. M. Digumarti et al., "Toward Stimuli-Responsive Soft Robots with 3D Printed Self-Healing Konjac Glucomannan Gels," in 3D Printing and Additive Manufacturing, July 2021, doi: 10.1089/3dp.2020.0289.'
 ---

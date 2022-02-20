@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/judd2020neatskin
 excerpt: ''
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
-paperurl: '10.1109/ROBOSOFT.2019.8722742'
+paperurl: 'https://doi.org/10.1109/ROBOSOFT.2019.8722742'
 date: 2020-05-15
 citation: 'Judd E, Digumarti KM, Rossiter J, Hauser H. NeatSkin: A Discrete Impedance Tomography Skin Sensor. In 2020 IEEE International Conference on Soft Robotics (RoboSoft) 2020 Apr 6. IEEE.'
 ---

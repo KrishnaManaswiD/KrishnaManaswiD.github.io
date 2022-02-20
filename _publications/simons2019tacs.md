@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/simons2019tacs
 excerpt: ''
 venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
-paperurl: '10.1109/ROBOSOFT.2019.8722742'
+paperurl: 'https://doi.org/10.1109/ROBOSOFT.2019.8722742'
 date: 2019-04-14
 citation: 'Simons MF, Digumarti KM, Conn AT, Rossiter J. Tiled Auxetic Cylinders for Soft Robots. In 2019 IEEE International Conference on Soft Robotics (RoboSoft) 2019 Apr 14. IEEE.'
 ---
