@@ -6,7 +6,7 @@ excerpt: ''
 venue: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 paperurl: 'https://doi.org/10.1109/IROS51168.2021.9636095'
 date: 2021-09-27
-citation: 'K. M. Digumarti et al., "Dexterous textile manipulation using electroadhesive fingers," in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sep. 2021, doi: 10.1109/IROS51168.2021.9636095.'
+citation: 'K. M. Digumarti et al., "Dexterous textile manipulation using electroadhesive fingers," in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sep. 2021.'
 ---
 
 ## Abstract

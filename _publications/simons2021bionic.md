@@ -6,7 +6,7 @@ excerpt: ''
 venue: "IEEE Robotics and Automation Letters (2021). Presented at ICRA 2021"
 paperurl: 'https://doi.org/10.1109/LRA.2021.3064269'
 date: 2021-03-08
-citation: 'M. F. Simons et al., "B:Ionic Glove: A Soft Smart Wearable Sensory Feedback Device for Upper Limb Robotic Prostheses," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3064269.'
+citation: 'M. F. Simons et al., "B:Ionic Glove: A Soft Smart Wearable Sensory Feedback Device for Upper Limb Robotic Prostheses," in IEEE Robotics and Automation Letters.'
 ---
 
 ## Abstract

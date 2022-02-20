@@ -6,7 +6,6 @@ excerpt: ''
 venue: "IEEE Robotics and Automation Letters, presented at IROS"
 paperurl: 'https://doi.org/10.1109/LRA.2017.2726113'
 date: 2017-09-27
-paperurl: 
 citation: 'Digumarti KM, Conn AT, Rossiter J. Euglenoid-Inspired Giant Shape Change for Highly Deformable Soft Robots. IEEE Robotics and Automation Letters. 2017 Oct;2(4):2302-7.'
 ---
 
