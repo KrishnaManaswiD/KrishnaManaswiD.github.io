@@ -1,6 +1,6 @@
 ---
 title: "Electrostatic Clutches for Variable Stiffness"
-excerpt: "A new way to change stiffness using electrostatics <br/><img src='/images/projectImages/vs_clutch_1.png'>"
+excerpt: "A new way to change stiffness using electrostatics <br/><img src='/images/projectImages/vsclutch_1.png'>"
 collection: research
 ---
 
@@ -8,4 +8,4 @@ We present a compact, prehensile and soft gripper capable of varying its stiffne
 
 This work was presented at the SPIE Electroactive Polymer Actuators and Devices (EAPAD) XXIV 2022. Access the paper on the [publisher's website](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12042/0000/A-variable-stiffness-soft-gripper-with-integrated-ion-drag-pump/10.1117/12.2615068.short).
 
-<img src='/images/projectImages/vs_clutch_2.png'>
+<img src='/images/projectImages/vsclutch_2.png'>
