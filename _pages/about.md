@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a scientist at the soft transducers lab, [LMTS](https://www.epfl.ch/labs/lmts/) and the laboratory of intelligent systems [LIS](https://www.epfl.ch/labs/lis/) at EPFL.
+I am a lecturer in the [school of electrical engineering and robotics](https://www.qut.edu.au/about/faculty-of-engineering/school-of-electrical-engineering-and-robotics) at the Queensland university of technology. Previously, I was a scientist at the soft transducers lab, [LMTS](https://www.epfl.ch/labs/lmts/) and the laboratory of intelligent systems [LIS](https://www.epfl.ch/labs/lis/) at EPFL.
 
 I have more than 10 years of experience in building and programming robots. I worked on applications in automated grasping, locomotion, wearables, healthcare, and soft robotics. My training includes a unique combination of skills in mechanics, electronics, programming, materials, mathematics, machine learning, and data analysis. My work resulted in the successful development of multiple devices, actuators, sensors, new materials, fabrication techniques, characterization methods and test benches. I presented my work at the top conferences and best journals of robotics and invented a new technology for grasping.
 
