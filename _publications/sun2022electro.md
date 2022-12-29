@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sun2022electro
 excerpt: ''
 venue: "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-paperurl: ''
+paperurl: 'https://doi.org/10.1109/IROS47612.2022.9982098'
 date: 2022-10-26
 citation: ' Sun, Yi, et al. "Electro-Adhesive Tubular Clutch for Variable-Stiffness Robots." in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022.'
 ---

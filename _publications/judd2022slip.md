@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/judd2022slip
 excerpt: ''
 venue: "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-paperurl: ''
+paperurl: 'https://doi.org/10.1109/IROS47612.2022.9981174'
 date: 2022-10-26
 citation: ' Judd, Euan, et al. "Slip Anticipation for Grasping Deformable Objects Using a Soft Force Sensor." in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022.'
 ---
