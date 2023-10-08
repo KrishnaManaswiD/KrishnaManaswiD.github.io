@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version here (not yet available).
-
 Education
 ======
 * Ph.D in Robotics and Autonomous Systems, University of Bristol and University of the West of England, 2019
@@ -19,10 +17,15 @@ Education
 
 Work experience
 ======
+* Lecturer
+  * School of Electrical Engineering and Robotics, QUT, Brisbane
+  * QUT Centre for Robotics
+  * Since Dec 2022
+
 * Scientist
   * Electrostatic Adhesion for Robot Grippers
   * Soft Transducers Lab (LMTS) and Laboratory of Intelligent Systems (LIS), EPFL
-  * Duration: Oct 2020 - Present
+  * Duration: Oct 2020 - Sep 2022
 
 * Research Associate
   * Fabrication of gel based robots
