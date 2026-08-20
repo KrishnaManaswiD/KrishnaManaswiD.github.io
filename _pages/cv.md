@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Lecturer
-  * School of Electrical Engineering and Robotics, QUT, Brisbane
-  * QUT Centre for Robotics
+* Lecturer, School of Electrical Engineering and Robotics, QUT, Brisbane
+  * Chief Investigator, QUT Centre for Robotics
+  * Lead, Soft Robotics and Co-Lead, Medical Robotics Research Group
   * Since Dec 2022
 
 * Scientist
@@ -71,7 +71,12 @@ Publications
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Conference and Workshop Organization
+======
+* Publications Chair, 2027 IEEE 10th International Conference on Soft Robotics (RoboSoft 2027), Brisbane, Australia
+* Co-organizer, Workshop on Embodied Intelligence Meets Foundation Models: Tactile Sensing and Soft Manipulation at Robotics Science and Systems (RSS) 2026, Sydney, Australia
+
 Awards and Achievements
 ======
 * Recipient of the ETH Scholarship for Master’s students, 2013
