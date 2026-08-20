@@ -95,6 +95,7 @@ Teaching
 
 Outreach and Voluntary Work
 ======
+* Coordinate ASPIRE for the School of electrical engineering and robotics at QUT, working with the Mabel Park State High School.
 * STEM ambassador UK. Regularly participate in outreach activities of the Bristol Robotics Lab, interacting with children, teaching programming, talking science and demonstrating robots.
 * Participated in the Science in Schools outreach program organized by the British Council in France, November 2017. Part of a three-member team visiting schools in Nancy-Metz.
 * Research featured in episode, 50 Shapes of Goo, of BBC Click with a worldwide audience of 380 million households, 10th June 2017. Cover photo shows off one of my robots.
