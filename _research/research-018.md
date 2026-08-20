@@ -16,4 +16,4 @@ A variable stiffness soft gripper with integrated ion-drag pump, presented at th
 
 Electro-Adhesive Tubular Clutch for Variable-Stiffness Robots, presented at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022. [Link to the paper](https://doi.org/10.1109/IROS47612.2022.9982098).
 
-<img src='/images/projectImages/ES_yi.png'>
+<img src='/images/projectImages/ES_cylindrical.png'>
