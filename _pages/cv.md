@@ -81,6 +81,11 @@ Conference and Workshop Organization
 * Publications Chair, 2027 IEEE 10th International Conference on Soft Robotics (RoboSoft 2027), Brisbane, Australia
 * Co-organizer, Workshop on Embodied Intelligence Meets Foundation Models: Tactile Sensing and Soft Manipulation at Robotics Science and Systems (RSS) 2026, Sydney, Australia
 
+Editorial work
+======
+* Topic Editor, [Adaptive Bioinspired Soft Robotics: Bridging Natural Behavior and Robotic Intelligence][https://www.frontiersin.org/research-topics/82101/adaptive-bioinspired-soft-robotics-bridging-natural-behavior-and-robotic-intelligence], Frontiers in Robotics and AI, 2026
+* Co-Guest Editor, Responsive and Multifunctional Soft Matter, Journal of Applied Physics, 2026
+
 Awards and Achievements
 ======
 * Recipient of the ETH Scholarship for Master’s students, 2013
