@@ -15,6 +15,10 @@ Education
 * Master of Science in Robotcs, Systems and Control, ETH Zürich (jointly with Disney Research Zürich), 2014
 * Bachelor of Technology with Honors in Mechanical Engineering, Indian Institute of Technology Hyderabad, 2012
 
+Fellowship
+======
+* Australia India Strategic Research Fund Early and Mid-Career Researcher Fellowship, 2025
+
 Work experience
 ======
 * Lecturer, School of Electrical Engineering and Robotics, QUT, Brisbane
