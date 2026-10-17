@@ -79,7 +79,7 @@ Publications
 Conference and Workshop Organization
 ======
 * Publications Chair, 2027 IEEE 10th International Conference on Soft Robotics ([RoboSoft 2027](https://robosoft27.com/)), Brisbane, Australia
-* Co-organizer, Workshop on Embodied Intelligence Meets Foundation Models: Tactile Sensing and Soft Manipulation at Robotics Science and Systems (RSS) 2026, Sydney, Australia
+* Co-organizer, Workshop on [Embodied Intelligence Meets Foundation Models: Tactile Sensing and Soft Manipulation](https://sites.google.com/openmind.org/intelligence-in-manipulation/home) at Robotics Science and Systems (RSS) 2026, Sydney, Australia
 
 Editorial work
 ======
